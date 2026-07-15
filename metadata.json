@@ -1,0 +1,6 @@
+{
+  "name": "Aether Interior Design",
+  "description": "Minimalist luxury interior design portfolio and contact portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
